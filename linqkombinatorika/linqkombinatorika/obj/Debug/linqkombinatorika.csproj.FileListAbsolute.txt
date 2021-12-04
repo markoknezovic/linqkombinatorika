@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\linqkombinatorika\linqkombinatorika\bin\Debug\linqkombinatorika.exe.config
+C:\Users\Korisnik\source\repos\linqkombinatorika\linqkombinatorika\bin\Debug\linqkombinatorika.exe
+C:\Users\Korisnik\source\repos\linqkombinatorika\linqkombinatorika\bin\Debug\linqkombinatorika.pdb
+C:\Users\Korisnik\source\repos\linqkombinatorika\linqkombinatorika\obj\Debug\linqkombinatorika.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\linqkombinatorika\linqkombinatorika\obj\Debug\linqkombinatorika.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\linqkombinatorika\linqkombinatorika\obj\Debug\linqkombinatorika.exe
+C:\Users\Korisnik\source\repos\linqkombinatorika\linqkombinatorika\obj\Debug\linqkombinatorika.pdb
